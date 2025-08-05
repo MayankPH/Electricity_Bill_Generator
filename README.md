@@ -1,6 +1,6 @@
 # Electricity Billing System
 
-This is a desktop application built using **Java Swing** for the graphical user interface and **JDBC** for database connectivity with MySQL. The system is designed to manage electricity billing operations for both administrators and customers.
+This is a desktop application built using **Java** and **JDBC** for database connectivity with MySQL. The system is designed to manage electricity billing operations for both administrators and customers.
 
 ## Functionalities
 
